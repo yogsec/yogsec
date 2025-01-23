@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Explore security blogs and resources curated by YogSec to stay updated on web application security trends and best practices.">
+    <title>Blog & Resources | YogSec</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+        .hero {
+            background: linear-gradient(to right, #0a192f, #172a45);
+            color: #ffffff;
+            padding: 80px 20px;
+            text-align: center;
+        }
+        .hero h1 {
+            font-size: 2.5rem;
+            font-weight: bold;
+        }
+        .blog-section {
+            padding: 50px 20px;
+        }
+        .blog-card {
+            border: none;
+            transition: transform 0.3s;
+        }
+        .blog-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+        }
+        .footer {
+            background: #0a192f;
+            color: #ffffff;
+            padding: 20px 0;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">YogSec</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="about.html">About Us</a></li>
+                    <li class="nav-item"><a class="nav-link" href="services.html">Services</a></li>
+                    <li class="nav-item"><a class="nav-link" href="case-studies.html">Case Studies</a></li>
+                    <li class="nav-item"><a class="nav-link" href="blog.html">Blog</a></li>
+                    <li class="nav-item"><a class="nav-link" href="pricing.html">Pricing</a></li>
+                    <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+                    <li class="nav-item"><a class="nav-link" href="testimonials.html">Testimonials</a></li>
+                    <li class="nav-item"><a class="nav-link" href="tools.html">Tools</a></li>
+                    <li class="nav-item"><a class="nav-link" href="free-resources.html">Free Resources</a></li>
+                    <li class="nav-item"><a class="nav-link" href="faq.html">FAQ</a></li>
+                    <li class="nav-item"><a class="nav-link" href="terms.html">Terms</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <h1>Blog & Resources</h1>
+            <p>Stay informed with the latest security tips, trends, and insights from YogSec's expert team.</p>
+        </div>
+    </section>
+
+    <!-- Blog Section -->
+    <section class="blog-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="card blog-card p-4">
+                        <img src="https://via.placeholder.com/350x200" class="card-img-top" alt="Blog Image">
+                        <div class="card-body">
+                            <h5 class="card-title">Understanding Web Application Security</h5>
+                            <p class="card-text">Learn the fundamentals of web application security and why it's critical for businesses of all sizes.</p>
+                            <a href="#" class="btn btn-primary">Read More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card blog-card p-4">
+                        <img src="https://via.placeholder.com/350x200" class="card-img-top" alt="Blog Image">
+                        <div class="card-body">
+                            <h5 class="card-title">Top 10 OWASP Vulnerabilities</h5>
+                            <p class="card-text">Discover the OWASP Top 10 vulnerabilities and how to protect your web applications against them.</p>
+                            <a href="#" class="btn btn-primary">Read More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card blog-card p-4">
+                        <img src="https://via.placeholder.com/350x200" class="card-img-top" alt="Blog Image">
+                        <div class="card-body">
+                            <h5 class="card-title">Penetration Testing: A Complete Guide</h5>
+                            <p class="card-text">Get a comprehensive guide to penetration testing, including methodologies, tools, and best practices.</p>
+                            <a href="#" class="btn btn-primary">Read More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row mt-4">
+                <div class="col-md-4">
+                    <div class="card blog-card p-4">
+                        <img src="https://via.placeholder.com/350x200" class="card-img-top" alt="Blog Image">
+                        <div class="card-body">
+                            <h5 class="card-title">What is a Bug Bounty Program?</h5>
+                            <p class="card-text">Explore how bug bounty programs work and how they can help organizations enhance security.</p>
+                            <a href="#" class="btn btn-primary">Read More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card blog-card p-4">
+                        <img src="https://via.placeholder.com/350x200" class="card-img-top" alt="Blog Image">
+                        <div class="card-body">
+                            <h5 class="card-title">Common Security Mistakes by Startups</h5>
+                            <p class="card-text">Learn about common security pitfalls startups face and how to avoid them effectively.</p>
+                            <a href="#" class="btn btn-primary">Read More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card blog-card p-4">
+                        <img src="https://via.placeholder.com/350x200" class="card-img-top" alt="Blog Image">
+                        <div class="card-body">
+                            <h5 class="card-title">How to Secure APIs</h5>
+                            <p class="card-text">Get insights into best practices for securing APIs and protecting sensitive data.</p>
+                            <a href="#" class="btn btn-primary">Read More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 YogSec. All Rights Reserved. | <a href="privacy.html" class="text-white">Privacy Policy</a></p>
+        </div>
+    </footer>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
