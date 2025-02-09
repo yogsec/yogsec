@@ -24,10 +24,6 @@ At YogSec, we believe **security is the foundation of trust and innovation**. By
    - Security integration into your development lifecycle (DevSecOps).  
    - Continuous monitoring and support to ensure long-term protection.  
 
-4. **Security Awareness and Training**  
-   - Educating your team on cybersecurity best practices.  
-   - Workshops and resources to help startups stay proactive against threats.  
-
 ---
 
 ## 🚀 Why YogSec?  
