@@ -1,6 +1,7 @@
 # Welcome to YogSec 🌐  
 
 ## About YogSec 🚀  
+
 **YogSec** is a cybersecurity startup dedicated to empowering startups with robust web application security. In today’s digital landscape, startups face unique challenges and threats, and we’re here to ensure that security doesn’t hold you back. Our focus is on identifying vulnerabilities, protecting sensitive data, and providing tailored solutions that safeguard your digital growth.  
 
 At YogSec, we believe **security is the foundation of trust and innovation**. By helping startups secure their websites, we enable them to focus on what they do best—growing their business.  
@@ -87,13 +88,31 @@ Stay updated with the latest in cybersecurity:
 
 ---
 
-## 📩 Get in Touch  
+## 🌟 Let's Connect!
 
-Have questions or need our services? Reach out to us anytime:  
-- 📧 Email: [yogsec.io@gmail.com](mailto:abhinavsingwal@gmail.com)  
-- 🌐 LinkedIn: [YogSec](https://www.linkedin.com/company/yogsec)  
+Hello, Hacker! 👋 We'd love to stay connected with you. Reach out to us on any of these platforms and let's build something amazing together:
+
+🌐 **Website:** [https://yogsec.github.io/yogsec/](https://yogsec.github.io/yogsec/)  
+📜 **Linktree:** [https://linktr.ee/yogsec](https://linktr.ee/yogsec)  
+🔗 **GitHub:** [https://github.com/yogsec](https://github.com/yogsec)  
+💼 **LinkedIn (Company):** [https://www.linkedin.com/company/yogsec/](https://www.linkedin.com/company/yogsec/)  
+📷 **Instagram:** [https://www.instagram.com/yogsec.io/](https://www.instagram.com/yogsec.io/)  
+🐦 **Twitter (X):** [https://x.com/yogsec](https://x.com/yogsec)  
+👨‍💼 **Personal LinkedIn:** [https://www.linkedin.com/in/bug-bounty-hunter/](https://www.linkedin.com/in/bug-bounty-hunter/)  
+📧 **Email:** abhinavsingwal@gmail.com
+
+---
+
+## ☕ Buy Me a Coffee
+
+If you find our work helpful and would like to support us, consider buying us a coffee. Your support keeps us motivated and helps us create more awesome content. ❤️
+
+☕ **Support Us Here:** [https://buymeacoffee.com/yogsec](https://buymeacoffee.com/yogsec)
+
+Thank you for your support! 🚀
 
 ---
 
 ### 🌟 Let’s Build a Safer Digital World Together!  
+
 Thank you for visiting our profile. We’re here to secure your startup and ensure your digital journey is safe, seamless, and successful.  
