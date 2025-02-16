@@ -109,8 +109,6 @@ If you find our work helpful and would like to support us, consider buying us a 
 
 ☕ **Support Us Here:** [https://buymeacoffee.com/yogsec](https://buymeacoffee.com/yogsec)
 
-Thank you for your support! 🚀
-
 ---
 
 ### 🌟 Let’s Build a Safer Digital World Together!  
