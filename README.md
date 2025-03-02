@@ -1,7 +1,5 @@
 # Welcome to YogSec 🌐  
 
-## About YogSec 🚀  
-
 **YogSec** is a cybersecurity startup dedicated to empowering startups with robust web application security. In today’s digital landscape, startups face unique challenges and threats, and we’re here to ensure that security doesn’t hold you back. Our focus is on identifying vulnerabilities, protecting sensitive data, and providing tailored solutions that safeguard your digital growth.  
 
 At YogSec, we believe **security is the foundation of trust and innovation**. By helping startups secure their websites, we enable them to focus on what they do best—growing their business.  
@@ -84,13 +82,13 @@ At **YogSec**, we are committed to sharing knowledge and tools with the cybersec
 Stay updated with the latest in cybersecurity:  
 - Guides on web application security best practices.  
 - Tutorials for identifying and mitigating vulnerabilities.  
-- Case studies on how we’ve helped startups secure their websites.  
+- [Medium - YogSec ](https://medium.com/@yogsec)
 
 ---
 
 ## 🌟 Let's Connect!
 
-Hello, Hacker! 👋 We'd love to stay connected with you. Reach out to us on any of these platforms and let's build something amazing together:
+We'd love to stay connected with you. Reach out to us on any of these platforms and let's build something amazing together:
 
 🌐 **Website:** [https://yogsec.github.io/yogsec/](https://yogsec.github.io/yogsec/)  
 📜 **Linktree:** [https://linktr.ee/yogsec](https://linktr.ee/yogsec)  
