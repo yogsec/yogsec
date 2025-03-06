@@ -1,6 +1,6 @@
 # Welcome to YogSec 🌐  
 
-!(YogSec Logo)[https://github.com/yogsec/yogsec/blob/main/Adobe%20Express%20-%20file(2).png?raw=true]
+![https://github.com/yogsec/yogsec/blob/main/Adobe%20Express%20-%20file(2).png?raw=true](https://github.com/yogsec/yogsec/blob/main/Adobe%20Express%20-%20file(2).png?raw=true)
 
 **YogSec** is a cybersecurity startup dedicated to empowering startups with robust web application security. In today’s digital landscape, startups face unique challenges and threats, and we’re here to ensure that security doesn’t hold you back. Our focus is on identifying vulnerabilities, protecting sensitive data, and providing tailored solutions that safeguard your digital growth.  
 
