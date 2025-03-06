@@ -19,8 +19,7 @@ At YogSec, we believe **security is the foundation of trust and innovation**. By
    - Recommendations to strengthen your security posture.  
 
 3. **Custom Security Solutions**  
-   - Tailored solutions designed for startups of all sizes.  
-   - Security integration into your development lifecycle (DevSecOps).  
+   - Tailored solutions designed for startups of small sizes.   
    - Continuous monitoring and support to ensure long-term protection.  
 
 ---
@@ -101,11 +100,11 @@ We'd love to stay connected with you. Reach out to us on any of these platforms 
 
 ---
 
-## ☕ Buy Me a Coffee
+##  Become a sponsor to YogSec 
 
-If you find our work helpful and would like to support us, consider buying us a coffee. Your support keeps us motivated and helps us create more awesome content. ❤️
+If you find our work helpful. Your support keeps us motivated and helps us create more awesome content. ❤️
 
-☕ **Support Us Here:** [https://buymeacoffee.com/yogsec](https://buymeacoffee.com/yogsec)
+☕ **Support Us Here:** [https://github.com/sponsors/yogsec](https://github.com/sponsors/yogsec)
 
 ---
 
