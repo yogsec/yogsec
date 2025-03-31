@@ -25,7 +25,6 @@ Hi Hacker!
 <details>
 <summary>Open!</summary>
 
-<p><br></p>
 <div>
   <div align="center">
       <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2E3cGU2ODY5cmFmNjgxdjB5cjI1Z3NmMWpkcWtlYWRsOTV1Z3FldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hs7G6EaFFtICA9cHZz/giphy.gif">
