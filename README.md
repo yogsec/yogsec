@@ -21,6 +21,7 @@ Hi Hacker!
 
 <div align="center">
 <p><img src="https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png" alt="Top of pokeball" width="255" height="130.583"></p>
+ <br>
 <details>
 <summary>Open!</summary>
 
