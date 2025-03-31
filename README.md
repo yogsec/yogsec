@@ -28,7 +28,7 @@ Hi Hacker!
 <p><br></p>
 <div>
   <div align="center">
-      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2o2dTNkZTlkMnRtOHhzMW41bjhmMjIzcGJzbWlnbDlyejVibW92MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/65NO1TrKrJUT6/giphy.gif">
+      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2E3cGU2ODY5cmFmNjgxdjB5cjI1Z3NmMWpkcWtlYWRsOTV1Z3FldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hs7G6EaFFtICA9cHZz/giphy.gif">
   </div>
   <div align="center">
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&amp;size=25&amp;duration=3500&amp;pause=300&amp;color=4AF626&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Hey%2CHacker!;Follow YogSec!;" alt="Typing SVG"></a>
