@@ -1,114 +1,53 @@
-# Welcome to YogSec 🌐  
+  <p align="center"><img src="https://github.com/yogsec/yogsec/blob/main/Adobe%20Express%20-%20file(2).png?raw=true"> </p>
+<div>
+<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png">
+<img alt="followers" src="https://img.shields.io/github/followers/yogsec?label=Followers&amp;style=social">
+<img src="https://img.shields.io/github/stars/yogsec?label=Stars" alt="stars">
+  <a href="https://www.whatsapp.com/channel/0029Vb68FeRFnSzGNOZC3h3x"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=WhatsApp+Channel&amp;color=25D366&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="WhatsApp Channel"></a>
+  <a href="https://t.me/HackerSecure"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Telegram+Channel&amp;color=24A1DE&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="Telegram Channel"></a>
+<samp>
+    <br>
+    <br>
+Happy Hacking!
+    <br>
+    <br>
+    * Web Security * Open-Source * Wordpress Security * Bug Bounty Tips * Payloads * PoC
+                  
+  </samp>
+<hr>
 
-**YogSec** is a cybersecurity startup dedicated to empowering startups with robust web application security. In today’s digital landscape, startups face unique challenges and threats, and we’re here to ensure that security doesn’t hold you back. Our focus is on identifying vulnerabilities, protecting sensitive data, and providing tailored solutions that safeguard your digital growth.  
 
-At YogSec, we believe **security is the foundation of trust and innovation**. By helping startups secure their websites, we enable them to focus on what they do best—growing their business.  
+<div align="center">
+<p><img src="https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png" height="300" width="300" alt="Top of pokeball"></p>
+<details open="">
+<summary>Open!</summary>
 
----
+<p><br></p>
+<div>
+  <div align="center">
+      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2o2dTNkZTlkMnRtOHhzMW41bjhmMjIzcGJzbWlnbDlyejVibW92MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/65NO1TrKrJUT6/giphy.gif">
+  </div>
+  <div align="center">
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&amp;size=25&amp;duration=3500&amp;pause=300&amp;color=4AF626&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Hey%2CHacker!;Follow YogSec!;" alt="Typing SVG"></a>
+  </div>
+</div>
+</details>
 
-## 🛡️ What We Offer  
+  
+<p><img src="https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png" alt="Bottom of pokeball" height="300" width="300"></p>
 
-1. **Web Application Security Testing**  
-   - Detailed analysis of your website to uncover vulnerabilities such as SQL injection, XSS, CSRF, and more.  
-   - Comprehensive testing tailored to your website’s architecture and needs.  
-   - Reports with actionable steps for mitigation.  
+<hr>
 
-2. **Vulnerability Assessments**  
-   - In-depth evaluation of your systems to identify potential risks.  
-   - Prioritization of vulnerabilities based on severity.  
-   - Recommendations to strengthen your security posture.  
+<div align="center">
+  <a href="https://www.linkedin.com/in/cybersecurity-pentester/"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=LinkedIn&amp;color=0A66C2&amp;logo=LinkedIn&amp;logoColor=FFFFFF&amp;label=" alt="LinkedIn"></a>
+  <a href="https://x.com/home"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=X&amp;color=000000&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="Lichess"></a>
+  <a href="mailto:abhinavsingwal@gmail.com?subject=Hi%20William%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Gmail&amp;color=EA4335&amp;logo=Gmail&amp;logoColor=FFFFFF&amp;label="></a>
+  <a href="https://t.me/HackerSecure"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Website&amp;color=FFFFC5&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="Telegram Channel"></a>  
+  
+</div>
 
-3. **Custom Security Solutions**  
-   - Tailored solutions designed for startups of small sizes.   
-   - Continuous monitoring and support to ensure long-term protection.  
 
----
 
-## 🚀 Why YogSec?  
 
-- **Startup-Focused**: We understand the fast-paced and resource-constrained environment startups operate in and design solutions that are effective and scalable.  
-- **Expertise**: Our team has extensive experience in web application security, bug bounty programs, and cybersecurity tools.  
-- **Transparency**: We believe in clear communication, detailed reports, and ethical practices.  
-- **Commitment**: Your security is our priority, and we ensure every vulnerability is addressed comprehensively.  
 
----
-
-## 🛠️ Services Breakdown  
-
-### 🔍 Web Application Testing  
-- **Objective**: To identify security flaws in your website.  
-- **Scope**: SQL Injection, XSS, CSRF, Broken Authentication, CORS misconfigurations, and more.  
-- **Process**:  
-  1. Initial consultation to define your goals and scope.  
-  2. Manual and automated testing of your web application.  
-  3. Delivery of a detailed report with actionable insights.  
-
-### 🔒 Vulnerability Assessment  
-- **Objective**: To evaluate the overall security posture of your startup.  
-- **Scope**: Infrastructure, application, and network-level vulnerabilities.  
-- **Process**:  
-  1. Scanning systems to detect vulnerabilities.  
-  2. Risk assessment and prioritization.  
-  3. Remediation strategies to reduce exposure.  
-
-### 🔧 Custom Security Integration  
-- **Objective**: To incorporate security into your development workflow.  
-- **Scope**: DevSecOps, secure coding practices, and CI/CD pipeline security.  
-- **Process**:  
-  1. Consultation to understand your development lifecycle.  
-  2. Implementation of security tools and best practices.  
-  3. Regular assessments to ensure compliance and effectiveness.  
-
----
-
-## 🛡️ Tools We Use  
-- **Static and Dynamic Analysis Tools**: Burp Suite, OWASP ZAP, etc.  
-- **Automated Scanners**: Nessus, Acunetix, Nikto.  
-- **Custom Scripts**: Developed in-house for specific use cases.  
-- **Manual Testing**: To uncover vulnerabilities that tools might miss.  
-
----
-
-## 🌐 Open-Source Contributions  
-At **YogSec**, we are committed to sharing knowledge and tools with the cybersecurity community. Here’s what you’ll find in our repositories:  
-- **BugBoard**: An open-source dashboard for bug hunters and security researchers.  
-- Scripts for vulnerability testing and automation.  
-- Educational resources for startups and developers.  
-
----
-
-## 📝 Blog and Resources  
-Stay updated with the latest in cybersecurity:  
-- Guides on web application security best practices.  
-- Tutorials for identifying and mitigating vulnerabilities.  
-- [Medium - YogSec ](https://medium.com/@yogsec)
-
----
-
-## 🌟 Let's Connect!
-
-We'd love to stay connected with you. Reach out to us on any of these platforms and let's build something amazing together:
-
-🌐 **Website:** [https://yogsec.github.io/yogsec/](https://yogsec.github.io/yogsec/)  
-📜 **Linktree:** [https://linktr.ee/yogsec](https://linktr.ee/yogsec)  
-🔗 **GitHub:** [https://github.com/yogsec](https://github.com/yogsec)  
-💼 **LinkedIn (Company):** [https://www.linkedin.com/company/yogsec/](https://www.linkedin.com/company/yogsec/)  
-📷 **Instagram:** [https://www.instagram.com/yogsec.io/](https://www.instagram.com/yogsec.io/)  
-🐦 **Twitter (X):** [https://x.com/yogsec](https://x.com/yogsec)  
-👨‍💼 **Personal LinkedIn:** [https://www.linkedin.com/in/cybersecurity-pentester/](https://www.linkedin.com/in/cybersecurity-pentester/)  
-📧 **Email:** abhinavsingwal@gmail.com
-
----
-
-##  Become a sponsor to YogSec 
-
-If you find our work helpful. Your support keeps us motivated and helps us create more awesome content. ❤️
-
-☕ **Support Us Here:** [https://github.com/sponsors/yogsec](https://github.com/sponsors/yogsec)
-
----
-
-### 🌟 Let’s Build a Safer Digital World Together!  
-![YogSec Logo](https://github.com/yogsec/yogsec/blob/main/Adobe%20Express%20-%20file(2).png?raw=true)
-
-Thank you for visiting our profile. We’re here to secure your startup and ensure your digital journey is safe, seamless, and successful.  
+</div></div>
