@@ -13,7 +13,7 @@
 Hi Hacker!
     <br>
     <br>
-    * Web Security * Open-Source * Wordpress Security * Bug Bounty Tips * Payloads
+    * Web Security * Open-Source Tools * Wordpress Security * Bug Bounty * Payloads
                   
   </samp>
 <hr>
