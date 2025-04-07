@@ -5,8 +5,12 @@
 <img alt="followers" src="https://img.shields.io/github/followers/yogsec?label=Followers&amp;style=social">
 <img src="https://img.shields.io/github/stars/yogsec?label=Stars" alt="stars">
   <br><br>
-  <a href="https://www.whatsapp.com/channel/0029Vb68FeRFnSzGNOZC3h3x"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=WhatsApp+Channel&amp;color=25D366&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="WhatsApp Channel"></a>
-  <a href="https://t.me/HackerSecure"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Telegram+Channel&amp;color=24A1DE&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="Telegram Channel"></a>
+ <a href="https://www.whatsapp.com/channel/0029Vb68FeRFnSzGNOZC3h3x">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=WhatsApp+Channel&color=25D366&logo=whatsapp&logoColor=FFFFFF&label=" alt="WhatsApp Channel">
+  </a>
+  <a href="https://t.me/HackerSecure">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram+Channel&color=24A1DE&logo=telegram&logoColor=FFFFFF&label=" alt="Telegram Channel">
+  </a>
 <samp>
     <br>
     <br>
@@ -23,7 +27,7 @@ Hi Hacker!
 <p><img src="https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png" alt="Top of pokeball" width="255" height="130.583"></p>
  <br>
 <details>
-<summary style="color: #ff6666;"> Open!
+<summary>Open Me!🔓
 </summary>
 <div>
   <div align="center">
