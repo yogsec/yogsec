@@ -23,7 +23,7 @@ Hi Hacker!
 <p><img src="https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png" alt="Top of pokeball" width="255" height="130.583"></p>
  <br>
 <details>
-<summary>  <a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Telegram+Channel&amp;color=24A1DE&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="Telegram Channel">OPEN!</a>
+<summary style="color: #ff6666;"> Open!
 </summary>
 <div>
   <div align="center">
