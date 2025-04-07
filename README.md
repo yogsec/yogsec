@@ -23,7 +23,8 @@ Hi Hacker!
 <p><img src="https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png" alt="Top of pokeball" width="255" height="130.583"></p>
  <br>
 <details>
-<summary>Open!</summary>
+<summary>  <a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Telegram+Channel&amp;color=24A1DE&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="Telegram Channel">OPEN!</a>
+</summary>
 <div>
   <div align="center">
       <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2E3cGU2ODY5cmFmNjgxdjB5cjI1Z3NmMWpkcWtlYWRsOTV1Z3FldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hs7G6EaFFtICA9cHZz/giphy.gif">
