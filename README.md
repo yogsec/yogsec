@@ -1,4 +1,3 @@
- <p align="center"><img src="https://github.com/yogsec/yogsec/blob/main/Adobe%20Express%20-%20file(2).png?raw=true"> </p>
 <div>
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png">
   <br> 
