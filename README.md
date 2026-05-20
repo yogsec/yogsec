@@ -40,23 +40,23 @@ Hi Hacker!
 <div align="center" style="margin: 30px 0;">
   
   <a href="https://www.linkedin.com/in/abhinav-singwal/">
-    <img src="https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0051A8" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" alt="LinkedIn">
   </a>
   
   <a href="https://linktr.ee/abhinavsingwal">
-    <img src="https://img.shields.io/badge/🌳_LinkTree-25D366?style=for-the-badge&logo=linktree&logoColor=white" alt="LinkTree">
+    <img src="https://img.shields.io/badge/LinkTree-43E660?style=for-the-badge&logo=linktree&logoColor=white&labelColor=43E660&color=43E660" alt="LinkTree">
   </a>
   
   <a href="https://x.com/yogsec">
-    <img src="https://img.shields.io/badge/🐦_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000&color=000000" alt="X">
   </a>
   
   <a href="mailto:abhinavsingwal@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" alt="Email">
   </a>
   
   <a href="https://yogsec.github.io/yogsec/">
-    <img src="https://img.shields.io/badge/🌐_Website-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/Website-FF6B6B?style=for-the-badge&logo=react&logoColor=white&labelColor=FF6B6B&color=FF6B6B" alt="Website">
   </a>
   
 </div>
