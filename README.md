@@ -42,13 +42,13 @@ Hi Hacker!
   <a href="https://www.linkedin.com/in/website-security/">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn">
   </a>
-  <a href="https://linktr.ee/yogsec">
+  <a href="https://linktr.ee/abhinavsingwal">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkTree&color=25D366&logo=linktree&logoColor=FFFFFF&label=" alt="LinkTree">
   </a>
   <a href="https://x.com/yogsec">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=X&color=000000&logo=x&logoColor=FFFFFF&label=" alt="X">
   </a>
-  <a href="mailto:abhinavsingwal@gmail.com?subject=Hi%20YogSec!">
+  <a href="mailto:abhinavsingwal@gmail.com?subject=Hi%20Abhinav!">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" alt="Email">
   </a>
   <a href="https://yogsec.github.io/yogsec/">
